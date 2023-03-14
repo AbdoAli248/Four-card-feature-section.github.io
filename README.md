@@ -1,5 +1,5 @@
 # Frontend Mentor - Four card feature section
-## Demo: https://lnkd.in/dPFjDv5v
+## Demo: https://abdoali248.github.io/Four-card-feature-section.github.io/
 
 ![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
 
